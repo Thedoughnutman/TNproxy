@@ -1,18 +1,7 @@
 {
-    "name": "Womginx",
-    "description": "Fastest proxy using only nginx as the backend server",
-    "repository": "https://github.com/binary-person/womginx",
-    "logo": "https://raw.githubusercontent.com/binary-person/womginx/master/public/logo.png",
-    "keywords": [
-        "nginx",
-        "docker"
-    ],
-    "stack": "container",
-    "env": {
-        "SAFE_BROWSING": {
-            "description": "Unset this value to disable. However, if this option is set, then the dns server is set to 1.1.1.3, which blocks malware and adult content. See https://1.1.1.1/family/ for more info",
-            "value": "1",
-            "required": false
-        }
-    }
+    "name": "Lucid Proxy",
+    "description": "An advanced web proxy front-end featuring state of the art techniques to provide the best user experience.",
+    "repository": "https://github.com/pyroTM/LucidProxy",
+    "logo": "https://github.com/pyroTM/LucidProxy/static/logo.png?raw=true",
+    "keywords": ["lucid", "ultraviolet"]
 }
