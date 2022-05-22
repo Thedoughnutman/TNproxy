@@ -1,11 +1,10 @@
-
 {
   "files": {
     "index.js": [
       {
         "id": "25303e58-40e9-4e83-85e5-3e872042b6f6",
         "line": 1,
-        "version": 1141,
+        "version": 1,
         "index": 0
       }
     ],
@@ -13,8 +12,8 @@
       {
         "id": "14d5f6fc-f6a4-4af1-ade2-081afe4c9cf6",
         "line": 5,
-        "version": 1455,
-        "index": 150
+        "version": 1,
+        "index": 128
       }
     ],
     "lib/inject/index.js": [
@@ -29,13 +28,13 @@
       {
         "id": "fb95480d-7080-4792-a798-0e41c93ee956",
         "line": 1,
-        "version": 26969,
+        "version": 1,
         "index": 0
       },
       {
         "id": "9205d1e7-f6d1-4ee1-82cc-5bed42181a0d",
         "line": 898,
-        "version": 26969,
+        "version": 1,
         "index": 32554
       }
     ],
@@ -43,8 +42,8 @@
       {
         "id": "95bcd358-6d16-4fa6-a4a8-4f9b1e474a7d",
         "line": 27,
-        "version": 2432,
-        "index": 1611
+        "version": 1,
+        "index": 1584
       }
     ],
     "lib/rewrites/cookie.js": [
@@ -59,7 +58,7 @@
       {
         "id": "b05b859e-e57e-4bdc-a58a-59147e4d9059",
         "line": 1,
-        "version": 9148,
+        "version": 1,
         "index": 0
       }
     ]
